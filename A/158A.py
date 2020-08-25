@@ -1,3 +1,4 @@
+# Code by JohnXdator
 n,k = map(int,input().split())
 ups = list(map(int,input().split()))
 count = 0
