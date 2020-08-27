@@ -1,3 +1,4 @@
+# Coded by JohnXdator
 n = input().lower()
 s = input().lower()
 if n == s:
