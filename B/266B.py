@@ -1,3 +1,4 @@
+# Coded by JohnXdator
 n,t = map(int, input().split())
 s = input()
 while t:
