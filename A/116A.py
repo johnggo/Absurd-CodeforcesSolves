@@ -1,3 +1,4 @@
+# Coded by JohnXdator
 n = int(input())
 e = 0
 s = 0
