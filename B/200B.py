@@ -2,4 +2,5 @@
 n = int(input())
 s = sum(map(int, input().split()))
 sol = s/n
-print(float(sol))
+f = float(sol)
+print(format(f, '.6f'))
