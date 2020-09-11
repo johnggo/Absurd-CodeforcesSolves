@@ -4,7 +4,7 @@ https://codeforces.com/profile/JohnXdator
 
 
 ## See more at wiki:
-https://github.com/JohnXdator/Codeforces-Solutions/wiki/Wiki!!
+https://github.com/JohnXdator/Codeforces-Solutions/wiki/MTFBWY
 
 ## Follow me on twitter
 https://twitter.com/Juanmrd
