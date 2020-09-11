@@ -9,5 +9,5 @@ https://twitter.com/Juanmrd
 ## See more at wiki:
 https://github.com/JohnXdator/Codeforces-Solutions/wiki/I-am-groot
 
-Forks Stars Watchers Last Commit License: MIT
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ### GLHF
