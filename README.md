@@ -9,5 +9,5 @@ https://twitter.com/Juanmrd
 ## See more at wiki:
 https://github.com/JohnXdator/Codeforces-Solutions/wiki/I-am-groot
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![FAQs !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://twitter.com/Juanmrd)
 ### GLHF
