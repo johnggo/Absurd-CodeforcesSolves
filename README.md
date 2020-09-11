@@ -4,7 +4,7 @@ https://codeforces.com/profile/JohnXdator
 
 
 ## See more at wiki:
-https://github.com/JohnXdator/Codeforces-Solutions/wiki/I-am-groot
+https://github.com/JohnXdator/Codeforces-Solutions/wiki/Wiki!!
 
 ## Follow me on twitter
 https://twitter.com/Juanmrd
