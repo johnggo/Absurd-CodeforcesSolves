@@ -13,4 +13,4 @@ My solutions to Codeforces problems written in python.
 If you have any question or need some help, [Tell me!](https://twitter.com/Juanmrd)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/JohnXdator/Codeforces-Solutions/blob/master/LICENSE.md)
