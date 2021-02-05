@@ -1,4 +1,3 @@
-# Code by JohnXdator
 # Using Euclid's algorithm: https://en.wikipedia.org/wiki/Euclidean_algorithm
 t = int(input())
 for i in range(t):
