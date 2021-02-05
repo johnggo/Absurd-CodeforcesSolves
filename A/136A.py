@@ -1,4 +1,3 @@
-# Coded by JohnXdator
 n = int(input())
 f = list(map(int, input().split()))
 s = [0] * n
