@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n = input()
 a = input()
 p = input()
