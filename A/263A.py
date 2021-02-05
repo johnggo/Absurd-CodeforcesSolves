@@ -1,4 +1,3 @@
-# Coded by JohnXdator
 for i in range(5):
 	mat = list(map(int,input().split()))
 	if 1 in mat:
