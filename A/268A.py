@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n = int(input())
 a = []
 b = []
