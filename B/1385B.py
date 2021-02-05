@@ -1,5 +1,5 @@
 # Source https://www.geeksforgeeks.org/python-ways-to-remove-duplicates-from-list/
-# Adecuated to the problem by JohnXdator
+# Adecuated to the problem by me xd
 t = int(input())
 for e in range(t):
   n = int(input())
