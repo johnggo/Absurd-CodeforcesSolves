@@ -1,4 +1,3 @@
-# Coded by JohnXdator
 n = int(input())
 i = False
 while not i:
