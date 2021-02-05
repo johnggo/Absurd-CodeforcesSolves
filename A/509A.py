@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n = int(input())
 a = [1] * n
 for i in range(n - 1):
