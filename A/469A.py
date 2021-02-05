@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n = int(input())
 x = input().split()[1:]
 y = input().split()[1:]
