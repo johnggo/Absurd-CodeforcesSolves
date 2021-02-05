@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n, k = map(int, input().split())
 s = (240-k)
 a = 0
