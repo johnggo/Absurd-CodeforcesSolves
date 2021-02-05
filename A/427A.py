@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n = int(input())
 a,b = 0, 0
 s = map(int, input().split())
