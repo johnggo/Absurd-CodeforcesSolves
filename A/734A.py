@@ -1,4 +1,3 @@
-# Coded by JohnXdator
 n = input()
 s = input()
 b = s.count("A")
