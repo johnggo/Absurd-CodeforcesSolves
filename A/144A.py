@@ -1,4 +1,3 @@
-Code by Johnxdator
 a = int(input())
 l = list(map(int, input().split()))
 c = l.index(max(l))
