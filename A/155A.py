@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n = int(input())
 s=list(map(int,input().split()))
 c=0
