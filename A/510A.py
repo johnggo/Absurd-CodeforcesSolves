@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n, m = map(int, input().split())
 for i in range(n):
 	if i % 2 == 0:
