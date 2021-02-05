@@ -1,4 +1,3 @@
-# Code by JohnXdator
 n = int(input())
 t = list(map(int, input().split()))
 m = min(t.count(1), t.count(2), t.count(3))
