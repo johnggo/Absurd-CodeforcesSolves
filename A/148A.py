@@ -1,4 +1,3 @@
-# Code by JohnXdator
 k, l, m, n, d = (int(input()) for i in range(5))
 y = 0
 for i in range(d+1):
