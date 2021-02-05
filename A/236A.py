@@ -1,4 +1,3 @@
-# Coded by JohnXdator
 n = str(input())
 d = ''.join(set(n))
 l = len(d)
