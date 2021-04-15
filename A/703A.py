@@ -1,13 +1,15 @@
 n = int(input())
-m = 0
-c = 0
-for t in range(n):
-  mi, ci = list(map(int, input().split()))
-  m += mi > ci
-  c += ci > mi 
-if m > c:
-  print("Mishka")
-elif c > m:
-  print("Chris")
+mi = 0
+ci = 0
+for i in range(n):
+	m, c = map(int, input().split())
+	if m > c:
+		mi += 1
+	elif c > m:
+		ci += 1
+if mi > ci:
+	print('Mishka')
+elif ci > mi:
+	print('Chris')
 else:
-  print("Friendship is magic!^^")
+	print('Friendship is magic!^^')
