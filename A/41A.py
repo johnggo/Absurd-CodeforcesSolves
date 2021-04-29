@@ -1,7 +1,6 @@
 s = str(input())
 t = str(input())
-rev = ''.join(reversed(s))
-if rev == t:
-  print("YES")
+if t == s[::-1]:
+	print('YES')
 else:
-  print("NO")
+	print('NO')
