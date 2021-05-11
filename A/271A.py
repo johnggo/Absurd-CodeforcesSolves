@@ -1,9 +1,7 @@
-n = int(input())
-i = False
-while not i:
-  n += 1
-  s = str(n)
-  e = set(s)
-  if len(s) == len(e):
-    i = True
-print(n)
+y = int(input()) + 1
+while True:
+	if len(set(str(y))) < 4:
+		y += 1
+	else:
+		break
+print(y)
