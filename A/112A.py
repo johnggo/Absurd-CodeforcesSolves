@@ -1,3 +1,5 @@
+# Time: 186 ms
+# Memory: 20 KB
 n = input().lower()
 s = input().lower()
 if n == s:
