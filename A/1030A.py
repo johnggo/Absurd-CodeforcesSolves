@@ -1,3 +1,5 @@
+Time: 109 ms
+Memory: 8 KB
 n = int(input())
 np = [int(np) for np in input().split()]
 sol = 0
