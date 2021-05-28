@@ -1,3 +1,5 @@
+# Time: 216 ms
+# Memory: 20 KB
 n = str(input())
 sol = 0
 for i in range(len(n)):
