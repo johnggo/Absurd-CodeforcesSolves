@@ -1,1 +1,11 @@
-i=input;print(''.join('01'[a!=b]for a,b in zip(i(),i()))) # one line code lol
+# Time: 93 ms
+# Memory: 20 KB
+no = str(input())
+noi = str(input())
+sol = ''
+for i in range(len(no)):
+	if no[i] != noi[i]:
+		sol += '1'
+	else:
+		sol += '0'
+print(sol)
