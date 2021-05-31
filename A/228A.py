@@ -1,4 +1,5 @@
-n = map(int, input().split())
-s = set(n)
-sol = 4 - len(s)
-print(sol)
+# Time: 310 ms
+# Memory: 20 KB
+s = input().split()
+sdel = len(s) - len(set(s))
+print(sdel)
