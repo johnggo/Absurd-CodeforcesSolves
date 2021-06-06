@@ -1,8 +1,8 @@
-a = int(input())
-l = list(map(int, input().split()))
-c = l.index(max(l))
-sol = l[::-1].index(min(l))
-if c < len(l) - sol - 1:
-  print(c + sol)
-else:
-  print(c + sol - 1)
+# Time: 280 ms
+# Memory: 16 KB
+n = int(input())
+num = list(map(int, input().split()))
+maxi = max(num)
+mini = min(num)
+sol = num.index(maxi) + num[::-1].index(mini)
+print(sol - (sol >= n)) # In case that sol >= n, sol gotta be decreased by True i. e. 1
