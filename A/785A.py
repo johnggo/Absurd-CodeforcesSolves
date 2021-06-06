@@ -1,7 +1,9 @@
-a = {'T':4, 'C':6, 'O':8, 'D':12, 'I':20}
+# Time: 1575 ms
+# Memory: 9284 KB
 n = int(input())
-s = 0
+poly = {'Tetrahedron': 4, 'Cube': 6, 'Octahedron': 8, 'Dodecahedron': 12, 'Icosahedron': 20}
+sol = 0
 for i in range(n):
-  b = input()
-  s += a[b[0]]
-print(s)
+	si = str(input())
+	sol += poly[si]
+print(sol)
