@@ -5,7 +5,7 @@ My solutions to Codeforces problems written in python.
 
 ## Recomendations
 
-- Read [The Competitive programmer's handbook](https://cses.fi/book/book.pdf).
+- Read [Problem Solving Techniques](https://www.mcemotihari.ac.in/wp-content/uploads/2019/11/file_5dc2a6c80c260.pdf).
 
 - Watch [Errichto channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 
