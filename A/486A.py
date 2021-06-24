@@ -1,6 +1,7 @@
+# Time: 124 ms
+# Memory: 24 KB
 n = int(input())
 if n % 2 == 0:
-  n = n/2
+	print(n//2) 
 else:
-  n = -1 * ((n+1)/2)
-print(int(n))
+	print((-1 * (n + 1)//2))
