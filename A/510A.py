@@ -1,6 +1,13 @@
+# Time: 124 ms
+# Memory: 12 KB
 n, m = map(int, input().split())
-for i in range(n):
-	if i % 2 == 0:
+s = '.'*(m-1) + '#'
+for i in range(1, n + 1):
+	np = (-1) ** (i)
+	if i % 2 != 0:
 		print('#'*m)
 	else:
-		print(['#'+'.'*(m-1),'.'*(m-1)+'#'][(i-1) % 4 == 0])
+		if i % 4 != 0:
+			print(s)
+		else:
+			print(s[::-1])
