@@ -1,6 +1,8 @@
+# Time: 218 ms
+# Memory: 4 KB
 for i in range(5):
-	mat = list(map(int,input().split()))
-	if 1 in mat:
-		r,l = (i, mat.index(1))
-		
-print(abs(2-r) + abs(2-l))
+	m = list(map(int, input().split()))
+	if 1 in m:
+		r, c = (m.index(1)), (i)
+sol = abs(r - 2) + abs(2 - c)
+print(sol)
