@@ -1,7 +1,9 @@
+# Time: 109 ms
+# Memory: 12 KB	
 n, k = map(int, input().split())
-s = (240-k)
-a = 0
-while s >= (5*(a + 1)):
-    a += 1
-    s -= (5*a)
-print(min(a, n))
+tl = 240 - k
+pcs = 0
+while tl >= (5*(pcs + 1)):
+	pcs += 1
+	tl -= 5*pcs
+print(min(n, pcs))
