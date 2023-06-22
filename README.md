@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-My solutions to Codeforces problems written in python.
+My solutions to Codeforces problems written all in Python.
 ![image](https://user-images.githubusercontent.com/65880991/103058190-f0e69480-4577-11eb-987c-cf4563fee95b.png)
 
 ## Recomendations
